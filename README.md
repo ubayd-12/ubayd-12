@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ubayd-12
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning backend development and UI design
+- 💞️ I’m looking to collaborate on web applications
+- 📫 How to reach me ubaydsharif19@gmail.com
