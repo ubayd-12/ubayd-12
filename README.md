@@ -7,6 +7,8 @@ I'm a computer science student at the University of Minnesota Twin Cities with a
 I have experience working with a variety of technologies and tools, including:
 
 - ReactJS
+- TypeScript
+- C++
 - Express
 - MongoDB
 - Azure
