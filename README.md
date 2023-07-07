@@ -1,4 +1,4 @@
-# Hi, I'm Ubayd! 👋
+# Hi, I'm Ubayd! 👋🏾
 
 I'm a computer science student at the University of Minnesota Twin Cities with a passion for web development. I'm particularly interested in the ability to create applications that can reach millions of people and make a positive impact on their lives.
 
